@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SampleAutomation", "SampleAutomation.csproj", "{80FB227D-916A-4E8E-AD31-E7607DCA3196}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		App.App.Prod.config.config|Any CPU = App.App.Prod.config.config|Any CPU
+		App.App.Prod.config.config|x64 = App.App.Prod.config.config|x64
+		App.Prod.config|Any CPU = App.Prod.config|Any CPU
+		App.Prod.config|x64 = App.Prod.config|x64
+		App.UAT.config|Any CPU = App.UAT.config|Any CPU
+		App.UAT.config|x64 = App.UAT.config|x64
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80FB227D-916A-4E8E-AD31-E7607DCA3196}.App.App.Prod.config.config|Any CPU.ActiveCfg = App.App.Prod.config.config|Any CPU
+		{80FB227D-916A-4E8E-AD31-E7607DCA3196}.App.App.Prod.config.config|Any CPU.Build.0 = App.App.Prod.config.config|Any CPU
+		{80FB227D-916A-4E8E-AD31-E7607DCA3196}.App.App.Prod.config.config|x64.ActiveCfg = App.App.Prod.config.config|x64
+		{80FB227D-916A-4E8E-AD31-E7607DCA3196}.App.App.Prod.config.config|x64.Build.0 = App.App.Prod.config.config|x64
+		{80FB227D-916A-4E8E-AD31-E7607DCA3196}.App.Prod.config|Any CPU.ActiveCfg = App.Prod.config|Any CPU
+		{80FB227D-916A-4E8E-AD31-E7607DCA3196}.App.Prod.config|Any CPU.Build.0 = App.Prod.config|Any CPU
+		{80FB227D-916A-4E8E-AD31-E7607DCA3196}.App.Prod.config|x64.ActiveCfg = App.Prod.config|x64
+		{80FB227D-916A-4E8E-AD31-E7607DCA3196}.App.Prod.config|x64.Build.0 = App.Prod.config|x64
+		{80FB227D-916A-4E8E-AD31-E7607DCA3196}.App.UAT.config|Any CPU.ActiveCfg = App.UAT.config|Any CPU
+		{80FB227D-916A-4E8E-AD31-E7607DCA3196}.App.UAT.config|Any CPU.Build.0 = App.UAT.config|Any CPU
+		{80FB227D-916A-4E8E-AD31-E7607DCA3196}.App.UAT.config|x64.ActiveCfg = App.UAT.config|x64
+		{80FB227D-916A-4E8E-AD31-E7607DCA3196}.App.UAT.config|x64.Build.0 = App.UAT.config|x64
+		{80FB227D-916A-4E8E-AD31-E7607DCA3196}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80FB227D-916A-4E8E-AD31-E7607DCA3196}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80FB227D-916A-4E8E-AD31-E7607DCA3196}.Debug|x64.ActiveCfg = Debug|x64
+		{80FB227D-916A-4E8E-AD31-E7607DCA3196}.Debug|x64.Build.0 = Debug|x64
+		{80FB227D-916A-4E8E-AD31-E7607DCA3196}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80FB227D-916A-4E8E-AD31-E7607DCA3196}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80FB227D-916A-4E8E-AD31-E7607DCA3196}.Release|x64.ActiveCfg = Release|x64
+		{80FB227D-916A-4E8E-AD31-E7607DCA3196}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40A1279E-C652-4160-BBDD-791C60D5CECD}
+	EndGlobalSection
+EndGlobal
